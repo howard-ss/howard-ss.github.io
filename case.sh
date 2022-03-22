@@ -10,3 +10,4 @@ case $month in
 12 | 1 | 2  ) echo 'Winter!' ;;
 * ) echo 'Unrecognized Month';;
 esac
+#this is end of the program
